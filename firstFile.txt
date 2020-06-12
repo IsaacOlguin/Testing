@@ -1,3 +1,5 @@
 This is the first file of learning git.
 
+Now, I'm changing the content of my file.
+
 Author: IMON
